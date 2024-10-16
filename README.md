@@ -88,25 +88,30 @@ for i in range(0,9):
 ## Output
 
 ### Original Image
-![image](https://github.com/user-attachments/assets/2cec5cd2-f0b1-4ae0-930a-b23316cd66f8)
 
+![image](https://github.com/user-attachments/assets/4aaae13d-859c-4f4b-b63d-3378346239ef)
 
 ### Global Thresholding
-![image](https://github.com/user-attachments/assets/1d847f68-21ef-4ad0-8f00-af97c0dd80c7)
-![image](https://github.com/user-attachments/assets/f98a58ef-bc6d-4db1-9533-6d21d1540873)
-![image](https://github.com/user-attachments/assets/6e5f2c44-2a2e-4d90-9d5b-36d15f41c9a7)
-![image](https://github.com/user-attachments/assets/b3b268d8-5e1b-4b4c-af78-446b4bfe6c68)
-![image](https://github.com/user-attachments/assets/f5ab222e-529e-471d-b143-569a7d6347aa)
 
+![image](https://github.com/user-attachments/assets/b14fce74-37dc-4aa4-9a10-bff3d47a8681)
 
+![image](https://github.com/user-attachments/assets/3cd94afb-1052-4bcc-b43f-ec960678ed45)
+
+![image](https://github.com/user-attachments/assets/22fd02d5-78d0-4389-97aa-f6829733cc07)
+
+![image](https://github.com/user-attachments/assets/db5463e9-76bc-413f-a18d-26625a876385)
+
+![image](https://github.com/user-attachments/assets/a7b49a0b-00ef-4514-bacb-f921371d9be2)
 
 ### Adaptive Thresholding
 
-![image](https://github.com/user-attachments/assets/a5a2cc40-affd-403b-a4d2-87417c52b2e2)
-![image](https://github.com/user-attachments/assets/37fd0f4c-1e95-4636-a6b4-d18f63da6a41)
+![image](https://github.com/user-attachments/assets/0d02c371-71ca-4217-8af6-9a0d1d1af2a8)
+
+![image](https://github.com/user-attachments/assets/ebf6f777-4e6c-4be7-b214-9e1d5aa88fea)
+
+![image](https://github.com/user-attachments/assets/c8fc7bfd-a92d-4ccd-8a77-fe781388793e)
 
 ### Optimum Global Thesholding using Otsu's Method
-![image](https://github.com/user-attachments/assets/44182a95-40e6-4de2-9ba0-89ff8e8cd06d)
 
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
